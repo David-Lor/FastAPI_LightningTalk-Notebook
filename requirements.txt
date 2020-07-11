@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+
+# for ipynb (jupyter notebook)
+jupyter
+requests
+wait4it
